@@ -12,8 +12,8 @@
 
 ## Prérequis
 
-- Python 3.x  
-- OpenCV (`pip install opencv-python`)
+- Python 3
+- OpenCV 
 - Fichiers Haar Cascade :  
   `haarcascade_frontalface_default.xml`  
   `haarcascade_eye.xml`
